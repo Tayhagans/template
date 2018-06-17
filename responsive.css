@@ -1,0 +1,29 @@
+@media screen and (min-width: 1025px){
+
+  .heading {
+  margin-top: 55px;
+ 
+} 
+  
+  h1 {
+  font-size: 60px; 
+}
+  
+  .photo-background {
+
+/*   height:750px; */
+    
+    height:900px; 
+/*     background-image: cover; */
+    
+      background-repeat: no-repeat; 
+   background-size: cover; 
+
+    
+ 
+    
+    
+ 
+   
+  }
+}
