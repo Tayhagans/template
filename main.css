@@ -14,16 +14,15 @@ h1 {
   color:white; 
   
 }
-
 .photo-background {
-/*   background-image: url("http://i67.tinypic.com/ve0olu.jpg"); */
+/*   background-image: url("http://i67.tinypic.com/ve0olu.jpg");  */
   
-/*   background-image: url("http://i64.tinypic.com/fx9cnd.jpg"); */
+  background-image: url("http://i64.tinypic.com/fx9cnd.jpg");
   
   
-   background-image: url("http://i68.tinypic.com/346qek1.jpg");
+/*    background-image: url("http://i68.tinypic.com/346qek1.jpg"); */
 
-   
+   font-family: 'Amatic SC', cursive;
 
   height:200px; 
   background-size: cover; 
